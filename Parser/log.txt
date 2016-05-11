@@ -1,0 +1,303 @@
+48 - start_session : Mon May  9 17:02:32 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: `£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: `£h8 N	 N	Ó¤âèóÿ¿ÿş·èóÿ¿ñ’ôÿ¿Ó¤$£O], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+48 - start_session : Mon May  9 17:03:14 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: `£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: `£h8¨N	¨N	Ó¤], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+48 - start_session : Mon May  9 17:04:46 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: `£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: `£h8 N	 N	Ó¤âèóÿ¿ÿş·èóÿ¿ñ’ôÿ¿Ó¤$£O], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+48 - start_session : Mon May  9 17:09:34 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: `£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: `£h8(=	(=	Ó¤ âèóÿ¿ÿş·èóÿ¿ñ’ôÿ¿Ó¤$£O], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+48 - start_session : Mon May  9 17:17:16 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: p£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: p£h8¨N	¨N	ã¤], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+48 - start_session : Mon May  9 17:20:35 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: p£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: p£h8¨N	¨N	ã¤ âèóÿ¿ÿş·èóÿ¿ñ’ôÿ¿ã¤4£O], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+69 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+48 - start_session : Mon May  9 17:21:21 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: p£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: p£h8 N	 N	ã¤âèóÿ¿ÿş·èóÿ¿ñ’ôÿ¿ã¤4£O], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+48 - start_session : Mon May  9 17:24:56 2016
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: p£h8], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+24 - get_http_doc : Succesfuly
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: p£h8¨N	¨N	ã¤], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQìà"
+59 - check : r
+59 - check : r
+18 - TStorage : Error: can't set character set
+
+35 - main : Succesfuly!
+11 - ~File_CPU : TEMP
+50 - close : [clear label]
+54 - close : return true
+42 - main : Wed May 11 12:29:31 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: ì¸hØ°], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+28 - get_http_doc : [error]
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hØ°], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hØ°], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+65 - main : Succesfuly!
+42 - main : Wed May 11 12:30:18 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: ì¸hx.	], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+28 - get_http_doc : [error]
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hx.	], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hx.	], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+65 - main : Succesfuly!
+42 - main : Wed May 11 12:33:31 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+28 - get_http_doc : [error]
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+65 - main : Succesfuly!
+42 - main : Wed May 11 12:34:12 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+28 - get_http_doc : [error]
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+65 - main : Succesfuly!
+11 - ~File_CPU : TEMP
+43 - close : return false
+42 - main : Wed May 11 14:56:56 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP
+59 - check : w
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+6 - download_layout : [conect]
+19 - get_file : [get file]
+17 - get_http_doc : https://pogoda.yandex.ru/ramenskoe/details
+28 - get_http_doc : [error]
+59 - check : r
+81 - open : [close]
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+59 - check : r
+72 - check : [open file: ì¸hX], [label] = "ƒÄÉÃL$ƒäğÿqüU‰åSQì0"
+59 - check : r
+70 - weed_by_tag : [error] EOF
+50 - close : [clear label]
+54 - close : return true
+65 - main : Succesfuly!
+42 - main : Wed May 11 14:58:09 2016
+
+43 - close : return false
+37 - change_file : TEMP
+7 - File_CPU : TEMP

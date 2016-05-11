@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="SourceFiles"
+                   displayName="Исходные файлы"
+                   projectFiles="true">
+      <itemPath>Column.cpp</itemPath>
+      <itemPath>TControler.cpp</itemPath>
+      <itemPath>download_layout.cpp</itemPath>
+      <itemPath>file_cpu.cpp</itemPath>
+      <itemPath>file_cpu_with_clear.cpp</itemPath>
+      <itemPath>log_debug.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>pars_seach.cpp</itemPath>
+      <itemPath>tstorage.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="HeaderFiles"
+                   displayName="Файлы заголовков"
+                   projectFiles="true">
+      <itemPath>Column.h</itemPath>
+      <itemPath>TControler.h</itemPath>
+      <itemPath>download_layout.h</itemPath>
+      <itemPath>file_cpu.h</itemPath>
+      <itemPath>file_cpu_with_clear.h</itemPath>
+      <itemPath>log_debug.h</itemPath>
+      <itemPath>pars_seach.h</itemPath>
+      <itemPath>tstorage.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Файлы ресурсов"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Файлы тестов"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Важные файлы"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerOptionItem>-Lpath-to-the-mysql-library -lmysqlclient -lz</linkerOptionItem>
+            <linkerOptionItem>-lcurl</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="Column.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TControler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TControler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="download_layout.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="download_layout.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="file_cpu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="file_cpu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="file_cpu_with_clear.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="file_cpu_with_clear.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="log_debug.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="log_debug.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pars_seach.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pars_seach.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tstorage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tstorage.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Column.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Column.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TControler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TControler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="download_layout.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="download_layout.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="file_cpu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="file_cpu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="file_cpu_with_clear.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="file_cpu_with_clear.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="log_debug.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="log_debug.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pars_seach.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pars_seach.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tstorage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tstorage.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
